@@ -63,3 +63,5 @@ dokonaniem	tych	modyfikacji
 ## Zadanie 11
 - Zaciągnij	zmiany	dokonane	w	zadaniu	10	z	repo1	do	repo2	tak	aby	znalazły	się one	w	brachu	o	nazwie	test	
 - wyświetl	stan	repozytorium,	informacje	na	temat	branchy	oraz	dwa	najnowsze	wpisy	z	historii	repozytorium
+
+# Rozwiązania w pliku Zadania.docx
